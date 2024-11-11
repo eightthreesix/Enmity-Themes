@@ -59,7 +59,7 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 1.0,
     "url": "https://i.pinimg.com/736x/47/87/b8/4787b88b9dc8e9d90874a90e29f002c3.jpg",
     "alpha": 1.0
   }
